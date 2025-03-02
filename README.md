@@ -1,6 +1,6 @@
-# AI_assistant_app
+# AI-Assistant-App
 
-## Demo Screen shots:
+## Demo screenshot:
 
 
 
